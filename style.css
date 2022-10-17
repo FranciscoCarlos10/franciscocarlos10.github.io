@@ -1,4 +1,11 @@
-body
+body{
+
+}
+
+#ttbanner{
+    width:100%;
+}
+.principal
     {
         background: #CCCCCC
     }
