@@ -1,36 +1,11 @@
-body{
-
+body {
+    background: #CCCCCC
 }
 
-#ttbanner{
-    width:100%;
+p {
+    text-align: center;
 }
-.principal
-    {
-        background: #CCCCCC
-    }
 
-    #xscratch
-    {
-        width: 10%;
-    }
-
-    h1
-    {
-        text-align: center
-    }
-
-    p
-    {
-        text-align: center;
-    }
-
-#missao
-{
-        font-size: 20px
+em strong {
+    color: #FF0000;
 }
-    
-    strong
-    {
-        color: rgb(0, 4, 255);
-    }
